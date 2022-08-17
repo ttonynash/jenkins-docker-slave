@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:22.04
 
 # Make sure the package repository is up to date.
 RUN apt-get update && \
